@@ -1,0 +1,22 @@
+packages:
+  - "adminify/packages/*"
+  - "adminify-design-system"
+  - "adminify-cli/packages/*"
+  - "adminify-typeorm"
+  - "adminify-mikroorm"
+  - "adminify-prisma"
+  - "adminify-in-memory"
+  - "adminify-storage/plugins/*"
+  - "adminify-audit-log"
+  - "adminify-bullmq"
+  - "wallet"
+  - "adminify-docs"
+  - "adminify-examples/examples/*"
+allowBuilds:
+  '@parcel/watcher': true
+  '@prisma/client': true
+  '@prisma/engines': true
+  '@scarf/scarf': true
+  esbuild: true
+  msgpackr-extract: false
+  prisma: true

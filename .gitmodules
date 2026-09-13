@@ -1,0 +1,39 @@
+[submodule "adminify"]
+	path = adminify
+	url = git@github.com:ZakoutTech/adminify.git
+[submodule "adminify-design-system"]
+	path = adminify-design-system
+	url = git@github.com:ZakoutTech/adminify-design-system.git
+[submodule "adminify-cli"]
+	path = adminify-cli
+	url = git@github.com:ZakoutTech/adminify-cli.git
+[submodule "adminify-typeorm"]
+	path = adminify-typeorm
+	url = git@github.com:ZakoutTech/adminify-typeorm.git
+[submodule "adminify-mikroorm"]
+	path = adminify-mikroorm
+	url = git@github.com:ZakoutTech/adminify-mikroorm.git
+[submodule "adminify-prisma"]
+	path = adminify-prisma
+	url = git@github.com:ZakoutTech/adminify-prisma.git
+[submodule "adminify-in-memory"]
+	path = adminify-in-memory
+	url = git@github.com:ZakoutTech/adminify-in-memory.git
+[submodule "adminify-storage"]
+	path = adminify-storage
+	url = git@github.com:ZakoutTech/adminify-storage.git
+[submodule "adminify-audit-log"]
+	path = adminify-audit-log
+	url = git@github.com:ZakoutTech/adminify-audit-log.git
+[submodule "adminify-bullmq"]
+	path = adminify-bullmq
+	url = git@github.com:ZakoutTech/adminify-bullmq.git
+[submodule "wallet"]
+	path = wallet
+	url = git@github.com:ZakoutTech/wallet.git
+[submodule "adminify-docs"]
+	path = adminify-docs
+	url = git@github.com:ZakoutTech/adminify-docs.git
+[submodule "adminify-examples"]
+	path = adminify-examples
+	url = git@github.com:ZakoutTech/adminify-examples.git
